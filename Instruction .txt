@@ -1,0 +1,13 @@
+﻿
+
+
+
+1. Valutaomvandlare
+Skapa en konsolapplikation som konverterar en summa pengar från en valuta till en annan. Inkludera typkonverteringar, operatörer och kontrollflöde.
+
+Instruktioner:
+Be användaren att ange en summa pengar i SEK.
+Ange en lista över tillgängliga valutor (t.ex. EUR, GBP, JPY,USD).
+Använd en switch-sats för att hantera valutaomvandlingen.
+Utför omvandlingen med multiplikationsoperatorer och skriv gjutning vid behov.
+Visa det konverterade beloppet.
