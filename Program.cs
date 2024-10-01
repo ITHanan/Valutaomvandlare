@@ -46,10 +46,7 @@
                     Console.WriteLine($"when you select USA they become: {convertedAmount}");
                     break;
 
-
             }
-
-
         }
     }
 }
